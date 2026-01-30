@@ -1,0 +1,70 @@
+header{
+background-color: rgb(4, 4, 4);
+color: white;
+}
+
+h1{
+    color: rgb(246, 239, 239);
+    font-size:10px;
+    float: right;
+    position: relative;
+    top:40px;
+    right: 90px;
+}
+
+main{
+    background-color: black;
+    color: rgb(248, 239, 239);
+    text-align: center;
+    background-image: linear-gradient(to right ,rgb(19, 152, 35),black,rgb(19, 152, 35));
+}
+
+p{
+    font-size: 17px;
+    color: rgb(110, 224, 40);
+}
+
+.har2000{
+    font-size: 16px;
+    color: white;
+}
+
+.har3000{
+    font-size: 16px;
+    color: white;
+}
+
+.har4000{
+    font-size: 16px;
+    color: white;
+}
+
+.har5000{
+    font-size: 16px;
+    color: white;
+}
+
+footer{
+    color: red;
+    background-color: rgb(110, 224, 40);
+}
+
+.zag20{
+    font-size: 30px;
+}
+
+.zag30{
+    font-size: 30px;
+}
+
+.zag40{
+    font-size: 30px;
+}
+
+.zag50{
+    font-size: 30px;
+}
+a{
+    color: white;
+    font-size: 20px;
+}
