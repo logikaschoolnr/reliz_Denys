@@ -1,0 +1,32 @@
+header{
+    background-color: black;
+        display: flex;
+        width: 100%;
+
+}
+
+a{
+    float: right;
+}
+div{
+    display: flex;
+    justify-content: end;
+    flex-wrap:wrap ;
+}
+
+h1{
+color: white; 
+}
+
+body{
+background-color: black;
+}
+
+p{
+    color: white;
+}
+
+footer{
+    color: red;
+    background-color: rgb(110, 224, 40);
+}
