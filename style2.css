@@ -1,6 +1,9 @@
 header{
-background-color: rgb(4, 4, 4);
+header{
+
 color: white;
+ background-image: linear-gradient(to right ,rgb(19, 152, 35),black,rgb(19, 152, 35));
+}
 }
 .links a {
   margin-left: 20px;         
