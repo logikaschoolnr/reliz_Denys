@@ -33,3 +33,8 @@ footer{
     color: red;
     background-color: rgb(110, 224, 40);
 }
+main{
+    background-color: black;
+    color: rgb(248, 239, 239);
+    background-image: linear-gradient(to right ,rgb(19, 152, 35),black,rgb(19, 152, 35));
+}
